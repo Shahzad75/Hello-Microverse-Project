@@ -1,13 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
+- Major languages: HTML,CSS
 - Frameworks
 - Technologies used
 
